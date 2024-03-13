@@ -1,4 +1,5 @@
-# EXP NO 3: Data Manipulation Language (DML) Commands and built in functions in SQL
+# EXP NO 3:
+## Data Manipulation Language (DML) Commands and built in functions in SQL
 ### DATE : 13/03/2024
 
 ## AIM:
